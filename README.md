@@ -35,12 +35,31 @@ demonstrated that the model yields encouraging outcomes with 98.4% accuracy,
 
 ## LSTM prediction using the model
 
+The validation dataset is utilized to find the hyper-parameters of the LSTM
+predictor, which can only be trained using the non-anomalous training dataset.
+The following figure depicts the LSTM Model’s predictions with an orange line. The trained
+model is augmented with test sets containing non-anomalous and anomalous
+data, respectively. Both normal and anomalous data yield respective forecasting
+results. The error set (which includes the error of non-anomalous and
+anomalous data) can then be formed after computing the error value between
+the true and predicted data.
+The quantitative feature of the prediction-error dataset is then created
+by taking the error from test sets that include both normal and anomalous
+data. Three sets make up the error dataset (error training, error
+validation, and error testing). So, if our original data have three features:
+`{Temperature, Pressure, RPM}` then our Error Dataset will have these six
+features: `{AbsoluteErrorTemperature, SquaredErrorTemperature, AbsoluteErrorPressure,
+SquaredErrorPressure, AbsoluteErrorRPM, SquaredErrorRPM}`.
+And corresponding to each time point there will be a label, with the value y,
+which can be 0 for a normal sample and 1 indicates anomalous.
+
+
 The blue lines show the actual findings,
 while the orange lines show the results as predicted
 The red arrow shows potential abnormalities.
 
 ### Non-anomalous
-![image](https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/cdd578ee-6180-4fee-9ed4-af7c9057c008)
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/cdd578ee-6180-4fee-9ed4-af7c9057c008" alt="image" width="200"/>
 ![image](https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/51697806-df26-4c87-977a-f78f550df5ee)
 ![image](https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/887b0df4-e602-4731-86b5-8cbb591b7721)
 
