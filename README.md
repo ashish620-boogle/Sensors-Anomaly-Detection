@@ -72,6 +72,12 @@ The red arrow shows potential abnormalities.
 3. LSTM-GNB :- Long-Short Term Memory with Gaussian Naive Bayes Classifier
 4. LSTM-RFC :- Long-Short Term Memory with Radom Forest Classifier
 
+### Labeled anomaly Dataset
+`Comparison of models on Labeled Anomaly Detection TS dataset`
+
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/8656105d-d471-49aa-a95f-35129f375dd1" alt="image" width="350"/>
+
+
 ### Benchmark data analysis
 <img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/6af19099-d301-4e3e-a496-5d670ba6ede3" alt="image" width="350"/>
 
