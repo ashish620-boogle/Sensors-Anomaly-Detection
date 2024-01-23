@@ -16,9 +16,9 @@ For Labeled Anomaly Detection TS follow [The ACM_research article](https://dl.ac
 
 ![image](https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55975aeb-2ae5-4e62-9e93-49a67063a154)
 
-```
+`
 periodic data of Labeled Anomaly Detection TS dataset
-```
+`
 
 ## LSTM-RF technique architecture
 ![image](https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/d55ac537-4043-4ead-9952-327244face7a)
