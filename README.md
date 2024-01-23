@@ -67,6 +67,11 @@ The red arrow shows potential abnormalities.
 <img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55ce58a0-8d9b-4a58-a816-210e6e65a15c" alt="image" width="350"/>
 
 ## Results and Analysis
+1. CNN :- Convolution Neural Network Model
+2. LSTM :- Long-Short Term Memory
+3. LSTM-GNB :- Long-Short Term Memory with Gaussian Naive Bayes Classifier
+4. LSTM-RFC :- Long-Short Term Memory with Radom Forest Classifier
+
 ### Benchmark data analysis
 <img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/6af19099-d301-4e3e-a496-5d670ba6ede3" alt="image" width="350"/>
 
