@@ -59,20 +59,20 @@ while the orange lines show the results as predicted
 The red arrow shows potential abnormalities.
 
 ### Non-anomalous
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/cdd578ee-6180-4fee-9ed4-af7c9057c008" alt="image" width="400"/>
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/51697806-df26-4c87-977a-f78f550df5ee" alt="image" width="400"/>
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/887b0df4-e602-4731-86b5-8cbb591b7721" alt="image" width="400"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/cdd578ee-6180-4fee-9ed4-af7c9057c008" alt="image" width="350"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/51697806-df26-4c87-977a-f78f550df5ee" alt="image" width="350"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/887b0df4-e602-4731-86b5-8cbb591b7721" alt="image" width="350"/>
 
 ### Anomalous
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55ce58a0-8d9b-4a58-a816-210e6e65a15c" alt="image" width="800"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55ce58a0-8d9b-4a58-a816-210e6e65a15c" alt="image" width="350"/>
 
 ## Results and Analysis
 ### Benchmark data analysis
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/6af19099-d301-4e3e-a496-5d670ba6ede3" alt="image" width="800"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/6af19099-d301-4e3e-a496-5d670ba6ede3" alt="image" width="350"/>
 
 `AUC and ROC analysis of Uni-variate models on Benchmark dataset`
 
 ### Analysing SKAB Dataset
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/32a94167-eb75-4b55-90e2-a7ea9624d2a4" alt="image" width="800"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/32a94167-eb75-4b55-90e2-a7ea9624d2a4" alt="image" width="350"/>
 
 `ROC and AUC analysis of Multi-variate models on SKAB dataset`
