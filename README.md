@@ -3,11 +3,11 @@
 In the IIoT, billions of devices continually provide information that is extremely diverse, variable, and large-scale and presents significant hurdles
 for interpretation and analysis. Additionally, issues with data transmission, scaling, computation, and storage can result in data
 anomalies that significantly affect IIoT applications. This module presents an anomaly detection framework for the IIoT in the context of
-the challenges posed by vast, heterogeneous, and complex data streams. This paper proposes a hybrid approach employing a composition of Long
-Short-Term Memory (LSTM) and a Random Forest (RF) Classifier. Our approach leverages the LSTM’s superior temporal pattern recognition
+the challenges posed by vast, heterogeneous, and complex data streams. A hybrid approach employing a composition of Long
+Short-Term Memory (LSTM) and a Random Forest (RF) Classifier are adapted. This approach leverages the LSTM’s superior temporal pattern recognition
 capabilities in multi-variate time-series data and the high classification accuracy of the RF model. By integrating the strengths of LSTM
-and RF models, our method provides not only precise predictions but also effectively discriminates between anomalies and normal occurrences,
-even in imbalanced datasets. We evaluated our model on two real-world datasets comprising periodic and non-periodic, short-term, and
+and RF models, the method provides not only precise predictions but also effectively discriminates between anomalies and normal occurrences,
+even in imbalanced datasets. The model is evaluated on two real-world datasets comprising periodic and non-periodic, short-term, and
 long-term temporal dependencies.
 
 ## Data Visualisation
