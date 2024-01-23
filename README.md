@@ -14,14 +14,14 @@ long-term temporal dependencies.
 Download the Skoltech Anomaly Benchmark(SKAB) data from [Kaggle](https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab).
 For Labeled Anomaly Detection TS follow [The ACM_research article](https://dl.acm.org/doi/abs/10.1145/3178876.3185996).
 
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55975aeb-2ae5-4e62-9e93-49a67063a154" alt="image" wifth="200"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55975aeb-2ae5-4e62-9e93-49a67063a154" alt="image" wifth="500"/>
 
 `
 periodic data of Labeled Anomaly Detection TS dataset
 `
 
 ## LSTM-RF technique architecture
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/d55ac537-4043-4ead-9952-327244face7a" alt="image" width="200"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/d55ac537-4043-4ead-9952-327244face7a" alt="image" width="500"/>
 
 The multi-feature prediction LSTM-RF technique makes use
 of the exceptional time series prediction performance of LSTM-NN and the
@@ -59,20 +59,20 @@ while the orange lines show the results as predicted
 The red arrow shows potential abnormalities.
 
 ### Non-anomalous
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/cdd578ee-6180-4fee-9ed4-af7c9057c008" alt="image" width="200"/>
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/51697806-df26-4c87-977a-f78f550df5ee" alt="image" width="200"/>
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/887b0df4-e602-4731-86b5-8cbb591b7721" alt="image" width="200"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/cdd578ee-6180-4fee-9ed4-af7c9057c008" alt="image" width="400"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/51697806-df26-4c87-977a-f78f550df5ee" alt="image" width="400"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/887b0df4-e602-4731-86b5-8cbb591b7721" alt="image" width="400"/>
 
 ### Anomalous
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55ce58a0-8d9b-4a58-a816-210e6e65a15c" alt="image" width="200"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/55ce58a0-8d9b-4a58-a816-210e6e65a15c" alt="image" width="800"/>
 
 ## Results and Analysis
 ### Benchmark data analysis
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/6af19099-d301-4e3e-a496-5d670ba6ede3" alt="image" width="200"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/6af19099-d301-4e3e-a496-5d670ba6ede3" alt="image" width="800"/>
 
 `AUC and ROC analysis of Uni-variate models on Benchmark dataset`
 
 ### Analysing SKAB Dataset
-<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/32a94167-eb75-4b55-90e2-a7ea9624d2a4" alt="image" width="200"/>
+<img src="https://github.com/ashish620-boogle/Sensors-Anomaly-Detection/assets/56781746/32a94167-eb75-4b55-90e2-a7ea9624d2a4" alt="image" width="800"/>
 
 `ROC and AUC analysis of Multi-variate models on SKAB dataset`
