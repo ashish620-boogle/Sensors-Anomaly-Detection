@@ -1,4 +1,4 @@
-# Sensors-Anomaly-Detection
+# Digital Twin: Sensors-Anomaly-Detection
 
 In the IIoT, billions of devices continually provide information that is extremely diverse, variable, and large-scale and presents significant hurdles
 for interpretation and analysis. Additionally, issues with data transmission, scaling, computation, and storage can result in data
